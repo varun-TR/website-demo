@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STAT 515-Quarto"
+  navbar:
+    left:
+    - website-demo.qmd
+    - about.qmd

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "website-demo.html",
+    "href": "website-demo.html",
+    "title": "website-demo",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "website-demo.html#quarto",
+    "href": "website-demo.html#quarto",
+    "title": "website-demo",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about.qmd",
+    "section": "",
+    "text": "This is an about page, About me."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "about.qmd",
+    "section": "",
+    "text": "This is an about page, About me."
+  }
+]
