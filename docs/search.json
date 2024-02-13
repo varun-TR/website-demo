@@ -1,30 +1,44 @@
 [
   {
-    "objectID": "website-demo.html",
-    "href": "website-demo.html",
-    "title": "website-demo",
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "website-demo.html#quarto",
-    "href": "website-demo.html#quarto",
-    "title": "website-demo",
+    "objectID": "home.html#quarto",
+    "href": "home.html#quarto",
+    "title": "Home",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about.qmd",
+    "title": "about",
     "section": "",
-    "text": "This is an about page, About me.\nla la land"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
   },
   {
-    "objectID": "about.html#about",
-    "href": "about.html#about",
-    "title": "about.qmd",
+    "objectID": "about.html#this-content-appears-above-the-formatted-about-page-content.",
+    "href": "about.html#this-content-appears-above-the-formatted-about-page-content.",
+    "title": "about",
     "section": "",
-    "text": "This is an about page, About me.\nla la land"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "about",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "about",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]
