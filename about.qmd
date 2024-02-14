@@ -1,9 +1,9 @@
 ---
-title: "about"
+title: "About me"
 format: html
 image: 2.jpeg
 about:
-  template: trestles
+  template: solana
   links:
    - icon: twitter
      text: twitter
@@ -13,25 +13,46 @@ about:
      href: https://github.com
 ---
 
-##  \### This content appears above the formatted about page content.
+## Saivarun Tanjore Raghavendra
 
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+::: {#hero-heading}
+I have 4 year Indian classic degree from Malla Reddy Institute Of Engineering & Technology which is affl. To JNTUH, and have involved in many events & won prizes. \
+\
+Experienced in startups with "No excuses" attitude and would take on-spot challenges. However, working in startups taught me not to stick-on to a particular role, rather be open-minded and flexible to take up any kind of designation to improve organizational excellence.
 
 ## Education
 
-University of California, San Diego \| San Diego, CA
-PhD in Mathematics \| Sept 2011 - June 2015
+## George Mason University, Fairfax, VA 22030
 
-Macalester College \| St. Paul MA
-B.A in Economics \| Sept 2007 - June 2011
+Jan 2024-May 2026
+
+Master of Science, Data Analytics Engineering
+
+***Courses:** Big Data to Information, Principles of Data Management and Mining, Analytics and Modelling, Applied Statistics, Machine Learning.*
+
+## Malla Reddy Institute of Engineering and Technology, Hyderabad, INDIA
+
+Aug 2019-Jul 2023
+
+Bachelor of technology (BTech), Computer Science and Engineering
+
+***Courses:** Algorithms and Design, Object Oriented Programming, OS, Compiler Design, Data Structures, Artificial Intelligence, Machine Learning*
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
-GeoScynce \| Chief Analyst \| Sept 2012 - April 2018
+## ·  Software Engineer Intern \| Galanmela India Private Limited
 
+####  Oct 2022--Feb 2023
+
+o    Worked with **Development team focusing on Website.**
+
+o    **Automation:** Single handedly developed **JSON Test cases** for **Cypress** which **reduced human effort per project by 35%**.
+
+o   **Full Stack:** Collaborated in a team of five to build **GraphQL** reject API to implement **Material UI** and written **Typescript** logic for package rejection and approval in vendor app.
+
+o    **Data Analysis:** To avoid anomalies in test cases, **Excel** pricing scenario discrepancies were fixed. Obtained data with **SQL.**
+
+o    **Achievements:** Won recognition for enrolling **corporate** hotel to vendor app by meeting & convincing directors. Won opportunity for organizing and managing **Jira** tickets for co-developers.
 :::
 
-### This content appears below the formatted about page content.
+### Thanks for visiting !

@@ -7,5 +7,11 @@
   },
   "home.qmd": {
     "home.html": "f245f97f"
+  },
+  "talks.qmd": {
+    "talks.html": "94e4c4d2"
+  },
+  "how-to.qmd": {
+    "how-to.html": "edcc0a40"
   }
 }

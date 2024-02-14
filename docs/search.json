@@ -1,44 +1,65 @@
 [
   {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "My works",
+    "section": "",
+    "text": "Welcome to My works, a platform for engaging conversations and thought-provoking discussions that shape the fabric of our projects. Here, we believe in the power of code to inspire change, foster understanding, and ignite meaningful connections among individuals from all walks of life."
+  },
+  {
     "objectID": "home.html",
     "href": "home.html",
     "title": "Home",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "This website is made with quarto. Quarto is a multi-language, next-generation version of R Markdown from Posit and includes dozens of new features and capabilities while at the same being able to render most existing Rmd files without modification.\nIn this tutorial, we'll show you how to use RStudio with Quarto. You'll edit code and markdown in RStudio just as you would with any computational document (e.g., R Markdown) and preview the rendered document in the Viewer tab as you work.\nThe following is a Quarto document with the extension .qmd (on the left), along with its rendered version as HTML (on the right). You could also choose to render it into other formats like PDF, MS Word, etc."
   },
   {
-    "objectID": "home.html#quarto",
-    "href": "home.html#quarto",
+    "objectID": "home.html#welcome-to-my-website",
+    "href": "home.html#welcome-to-my-website",
     "title": "Home",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "This website is made with quarto. Quarto is a multi-language, next-generation version of R Markdown from Posit and includes dozens of new features and capabilities while at the same being able to render most existing Rmd files without modification.\nIn this tutorial, we'll show you how to use RStudio with Quarto. You'll edit code and markdown in RStudio just as you would with any computational document (e.g., R Markdown) and preview the rendered document in the Viewer tab as you work.\nThe following is a Quarto document with the extension .qmd (on the left), along with its rendered version as HTML (on the right). You could also choose to render it into other formats like PDF, MS Word, etc."
+  },
+  {
+    "objectID": "how-to.html",
+    "href": "how-to.html",
+    "title": "how-to",
+    "section": "",
+    "text": "This page is dedicated to breaking down the science behind any phenomenon or substance involves a meticulous examination of its fundamental principles, properties, and interactions at various levels of scale. Whether it’s delving into the molecular structure of a chemical compound, analyzing the biomechanics of a physical process, or exploring the intricate workings of a biological system, scientific inquiry aims to uncover the underlying mechanisms that govern its behavior and characteristics. This often entails experimentation, observation, and theoretical modeling to elucidate the intricate relationships between different components and their roles in shaping the overall phenomenon. Through this systematic approach, scientists can gain a deeper understanding of the intricacies of nature and harness this knowledge to advance various fields, from medicine and technology to environmental science and beyond."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about",
+    "title": "About me",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "I have 4 year Indian classic degree from Malla Reddy Institute Of Engineering & Technology which is affl. To JNTUH, and have involved in many events & won prizes.\n\nExperienced in startups with “No excuses” attitude and would take on-spot challenges. However, working in startups taught me not to stick-on to a particular role, rather be open-minded and flexible to take up any kind of designation to improve organizational excellence.\n\n\n\n\n\nJan 2024-May 2026\nMaster of Science, Data Analytics Engineering\nCourses: Big Data to Information, Principles of Data Management and Mining, Analytics and Modelling, Applied Statistics, Machine Learning.\n\n\n\nAug 2019-Jul 2023\nBachelor of technology (BTech), Computer Science and Engineering\nCourses: Algorithms and Design, Object Oriented Programming, OS, Compiler Design, Data Structures, Artificial Intelligence, Machine Learning\n\n\n\n\n\n\n\n\no    Worked with Development team focusing on Website.\no    Automation: Single handedly developed JSON Test cases for Cypress which reduced human effort per project by 35%.\no   Full Stack: Collaborated in a team of five to build GraphQL reject API to implement Material UI and written Typescript logic for package rejection and approval in vendor app.\no    Data Analysis: To avoid anomalies in test cases, Excel pricing scenario discrepancies were fixed. Obtained data with SQL.\no    Achievements: Won recognition for enrolling corporate hotel to vendor app by meeting & convincing directors. Won opportunity for organizing and managing Jira tickets for co-developers."
   },
   {
-    "objectID": "about.html#this-content-appears-above-the-formatted-about-page-content.",
-    "href": "about.html#this-content-appears-above-the-formatted-about-page-content.",
-    "title": "about",
+    "objectID": "about.html#saivarun-tanjore-raghavendra",
+    "href": "about.html#saivarun-tanjore-raghavendra",
+    "title": "About me",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "I have 4 year Indian classic degree from Malla Reddy Institute Of Engineering & Technology which is affl. To JNTUH, and have involved in many events & won prizes.\n\nExperienced in startups with “No excuses” attitude and would take on-spot challenges. However, working in startups taught me not to stick-on to a particular role, rather be open-minded and flexible to take up any kind of designation to improve organizational excellence.\n\n\n\n\n\nJan 2024-May 2026\nMaster of Science, Data Analytics Engineering\nCourses: Big Data to Information, Principles of Data Management and Mining, Analytics and Modelling, Applied Statistics, Machine Learning.\n\n\n\nAug 2019-Jul 2023\nBachelor of technology (BTech), Computer Science and Engineering\nCourses: Algorithms and Design, Object Oriented Programming, OS, Compiler Design, Data Structures, Artificial Intelligence, Machine Learning\n\n\n\n\n\n\n\n\no    Worked with Development team focusing on Website.\no    Automation: Single handedly developed JSON Test cases for Cypress which reduced human effort per project by 35%.\no   Full Stack: Collaborated in a team of five to build GraphQL reject API to implement Material UI and written Typescript logic for package rejection and approval in vendor app.\no    Data Analysis: To avoid anomalies in test cases, Excel pricing scenario discrepancies were fixed. Obtained data with SQL.\no    Achievements: Won recognition for enrolling corporate hotel to vendor app by meeting & convincing directors. Won opportunity for organizing and managing Jira tickets for co-developers."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "about",
+    "objectID": "about.html#george-mason-university-fairfax-va-22030",
+    "href": "about.html#george-mason-university-fairfax-va-22030",
+    "title": "About me",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "Jan 2024-May 2026\nMaster of Science, Data Analytics Engineering\nCourses: Big Data to Information, Principles of Data Management and Mining, Analytics and Modelling, Applied Statistics, Machine Learning."
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "about",
+    "objectID": "about.html#malla-reddy-institute-of-engineering-and-technology-hyderabad-india",
+    "href": "about.html#malla-reddy-institute-of-engineering-and-technology-hyderabad-india",
+    "title": "About me",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present GeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "Aug 2019-Jul 2023\nBachelor of technology (BTech), Computer Science and Engineering\nCourses: Algorithms and Design, Object Oriented Programming, OS, Compiler Design, Data Structures, Artificial Intelligence, Machine Learning"
+  },
+  {
+    "objectID": "about.html#software-engineer-intern-galanmela-india-private-limited",
+    "href": "about.html#software-engineer-intern-galanmela-india-private-limited",
+    "title": "About me",
+    "section": "",
+    "text": "o    Worked with Development team focusing on Website.\no    Automation: Single handedly developed JSON Test cases for Cypress which reduced human effort per project by 35%.\no   Full Stack: Collaborated in a team of five to build GraphQL reject API to implement Material UI and written Typescript logic for package rejection and approval in vendor app.\no    Data Analysis: To avoid anomalies in test cases, Excel pricing scenario discrepancies were fixed. Obtained data with SQL.\no    Achievements: Won recognition for enrolling corporate hotel to vendor app by meeting & convincing directors. Won opportunity for organizing and managing Jira tickets for co-developers."
   }
 ]
